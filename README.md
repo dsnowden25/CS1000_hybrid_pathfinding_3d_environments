@@ -18,19 +18,19 @@ We are comparing three pathfinding strategies for groups of agents in 3D environ
 3. **Adaptive hybrid** — switches between formation and flow field based on terrain width and unit physical footprint. It uses proactive path analysis and distance transforms to detect bottlenecks before entry, "liquefying" the unit for traversal and "crystallizing" back into formation in open ground.
 
 ## Structure
-pathfinding_project/
-├── environment.py           # 3D voxel grid logic, stability checks, and basic terrain
-├── environment_complex.py   # Advanced stress-test scenario generators (Canyon, Crossroads)
-├── agents.py                # Core Agent classes and Size-Aware HybridGroup controller
-├── pathfinding/
-│   ├── init.py
-│   ├── astar.py             # 3D A* implementation with elevation weighting
-│   ├── flow_field.py        # Dijkstra cost-field generation and gradient descent
-│   └── hybrid.py            # Distance transforms and obstacle-clearance analysis
-├── simulation_large.py      # Main stress-test driver (7 scenarios) and metrics collection
-├── overhead_exploration.py  # Performance profiler comparing O(N) vs O(1) logic
-├── generate_plots.py        # Matplotlib script for generating technical visualizations
-└── README.md                # Consolidated technical documentation
+
+- `environment.py` — 3D voxel grid, terrain types, and preset environment generators
+- `environment_complex.py` — Stress-test environments (Serpentine, Crossroads, Pillar Field)
+- `agents.py` — Agent class, FormationGroup, FlowFieldGroup, and HybridGroup controllers
+- `pathfinding/` — Pathfinding algorithm package
+  - `astar.py` — 3D A* with elevation weighting
+  - `flow_field.py` — Dijkstra cost-field and gradient-based flow directions
+  - `hybrid.py` — Distance transform and terrain classification
+- `simulation.py` — Single-group scenario runner and metrics collection
+- `simulation_large.py` — Full test suite (4 baseline + 3 stress-test scenarios)
+- `scaling_benchmark.py` — 8-panel scaling analysis across agent counts and environment sizes
+- `generate_plots.py` — Matplotlib plots from simulation results
+- `analysis/` — Reports, proposals, literature reviews, and plot images
 
 ## Required tools
 
