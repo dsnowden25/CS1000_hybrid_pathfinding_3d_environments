@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\simulation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:simulation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\Progress_Report.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Progress_Report.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\agents.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:agents.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\environment.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "agents.py",
+              "DocumentMoniker": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\agents.py",
+              "RelativeDocumentMoniker": "agents.py",
+              "ToolTip": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\agents.py",
+              "RelativeToolTip": "agents.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-14T20:43:14.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simulation.py",
+              "DocumentMoniker": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\simulation.py",
+              "RelativeDocumentMoniker": "simulation.py",
+              "ToolTip": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\simulation.py",
+              "RelativeToolTip": "simulation.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-14T20:20:11.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "environment.py",
+              "DocumentMoniker": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\environment.py",
+              "RelativeDocumentMoniker": "environment.py",
+              "ToolTip": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\environment.py",
+              "RelativeToolTip": "environment.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-14T20:19:56.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Progress_Report.md",
+              "DocumentMoniker": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\Progress_Report.md",
+              "RelativeDocumentMoniker": "Progress_Report.md",
+              "ToolTip": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\Progress_Report.md",
+              "RelativeToolTip": "Progress_Report.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-14T20:07:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\dsnow\\OneDrive\\Northeastern\\CS5100 AI Foundation\\Final Project\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-14T20:00:51.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
